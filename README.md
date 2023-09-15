@@ -1,2 +1,2 @@
 ### Hi there
-- I'm currently learning java.
+- I have been practicing Java for two and a half years.
